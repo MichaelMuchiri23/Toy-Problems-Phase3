@@ -1,1 +1,13 @@
-TOY PROBLEMS PHASE 3 WEEK 1
+                 TOY PROBLEMS PHASE 3 WEEK 1
+-In this repo you'll find the solutions to the Toy Problems code challenge of 
+ Phase 3.
+-There is:
+ 1.The Time Conversion file that has a function that converts time from 12 hour clock to  24 hour clock.
+
+ 2.The Greater-Than-Zero file has a function that takes 3 integers and returns True if 2 of them are positive integers.
+
+ 3.The Consonant-Value file has a function that takes a string and returns the  highest value of consequent consonant substrings.
+
+Project Setup:The project requires little setup and only requires you to run the example cases in a terminal.
+
+Author and License:The author of this repo is MichaelMuchiri23 and it has no  license.
